@@ -4,7 +4,7 @@
 
 ### 项目名称：小黑来了APP
 
-#### 产品文档MRD
+#### 产品文档MRD&PRD
 [产品文档MRD](https://github.com/Yejiejie/APP_Final)
 
 ### 小组成员
